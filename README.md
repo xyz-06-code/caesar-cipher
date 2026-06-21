@@ -9,8 +9,8 @@ this project has two parts:
 I wanted to actaully understand how basic encryption works. Building the brute force part was the interesting bit, seeing how a message can be cracked just by trying all 25 shifts made it clear why modern encryption needs to be a lot more complex than this.
 
 # Files 
-- caesar-cipher-python
-- caesar-cipher-python
+- CaesarCipher.java
+- caesar_cipher.py
 
 # How to run
 Python- python Caesar-cipher-python
