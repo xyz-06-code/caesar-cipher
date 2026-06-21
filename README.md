@@ -13,6 +13,6 @@ I wanted to actaully understand how basic encryption works. Building the brute f
 - caesar_cipher.py
 
 # How to run
-Python- python Caesar-cipher-python
+Python- python caesar_cipher.py
 
-Java: javac caesar-cipher-java then java caesar-cipher-java
+Java: javac CaesarCipher.java then java CaesarCipher
